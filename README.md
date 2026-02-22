@@ -2,12 +2,13 @@
 <br />
   <a href="https://github.com/kesauce/linuxrice">
   </a>
-
   <h3 align="center">Linux Rice</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-I've only ever known Linux to be an operating system for work-related problems and because I grew up on Windows, I never had the greatest urge to try it. That's before I found out what Linux Ricing was and the vast community it has. I quickly grabbed my old laptop that's been collecting dust and got to researching. I've always had a love for customising and desiging my own things and spaces so it greatly represents me. To be able to customise every detail of my computer is very exciting and I was very motivated to get to know Linux better.
+I've only ever known Linux to be an operating system for work-related problems and because I grew up on Windows, I never had the greatest urge to try it. That's before I found out what Linux Ricing was and the vast community it has. I quickly grabbed my old laptop that's been collecting dust and got to researching. I've always had a love for customising and desiging my own things and spaces so it greatly represents me. To be able to customise every detail of my computer is very exciting and I was very motivated to get to know Linux better in the process.
+
+Although I've completed the bare minimum for my computer to function, I still plan to keep adding to this rice!
 
 ## Gallery
 <img width="1918" height="1080" alt="screenshot_20260222-173809" src="https://github.com/user-attachments/assets/f0b641b1-d623-415d-b928-29d0339f25a0" />
@@ -16,14 +17,17 @@ I've only ever known Linux to be an operating system for work-related problems a
 <img width="1920" height="1080" alt="screenshot_20260222-174501" src="https://github.com/user-attachments/assets/c5cb6f0b-f604-43b8-b64c-071bfbda1ecb" />
 <img width="1467" height="92" alt="screenshot_20260222-174612" src="https://github.com/user-attachments/assets/b397f404-8cda-4dfa-bb97-2eb093f83cd1" />
 <img width="1920" height="1080" alt="screenshot_20260222-174746" src="https://github.com/user-attachments/assets/2cd45af9-0e11-46f5-8406-8f0fc06351c8" />
+<img width="1920" height="1080" alt="2026-02-22_22-37-27" src="https://github.com/user-attachments/assets/dd71c877-eae3-4ba2-b279-6e5360afd276" />
 
-
-
-## Packages and Tools Used
-- wayland
-- hyprland
-- wofi
-- waybar
-- kitty
-- nautilus
-- neofetch
+## Tools and Software Used
+- `wayland` (display manager)
+- `hyprland` (window manager)
+- `wofi` (application launcher)
+- `waybar` (status bar)
+- `kitty` (terminal emulator)
+- `nautilus` (file explorer)
+- `dunst` (notification daemon)
+- `neofetch` (system information tool)
+- `ly` (login manager)
+- `cava` (audio visualiser)
+- `zsh` (terminal shell)
